@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Backend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raginimotankar" alt="raginimotankar" /></a> </p>
+
 - 👋 Hi, I’m @raginimotankar
 - 👀 I’m interested in Python Language
 - 🌱 I’m currently learning Django
