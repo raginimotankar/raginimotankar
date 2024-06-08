@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ragini Shamrao Motankar</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">Python Backend developer </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raginimotankar" alt="raginimotankar" /></a> </p>
 
